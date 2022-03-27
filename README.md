@@ -1,4 +1,4 @@
-#What is a Pivot Table?
+What is a Pivot Table?
 
 A pivot table is a statistics tool that summarizes and reorganizes selected columns and rows of data in a spreadsheet or database table to obtain a desired report. The tool does not actually change the spreadsheet or database itself, it simply “pivots” or turns the data to view it from different perspectives.
 
